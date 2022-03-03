@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @M4MOE
-- 👀 I’m interested in Data Solutions 
+- 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning R 
 - 💞️ I’m looking to collaborate on interesting things  
-- 📫 How to reach me ...
+- 📫 How to reach me Linkedin
 
 <!---
 M4MOE/M4MOE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
